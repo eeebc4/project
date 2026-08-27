@@ -1,3 +1,3 @@
 # project
 
-This a the repository for our project.
+This a the GitHub repository for our project.
